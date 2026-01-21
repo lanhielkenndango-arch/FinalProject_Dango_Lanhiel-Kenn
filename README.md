@@ -26,3 +26,5 @@ Option 2: Using GUI
 
 Sample Output
 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/109c4106-6887-40bb-b0c1-3848a3b48c55" />
+<img width="1919" height="1137" alt="image" src="https://github.com/user-attachments/assets/e5073ed9-e282-48a6-8694-3c8a83828c80" />
