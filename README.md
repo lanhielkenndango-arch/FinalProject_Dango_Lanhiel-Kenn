@@ -4,11 +4,11 @@ Drinks App
 
 Problem Statement
 
-- This program aims to simulate a digital ordering system for a beverage shop. Cashiers or customers may struggle with manually tracking orders and calculating the total cost, especially when ordering multiple items with different prices. This project aims to solve this problem by providing an automated ordering system that allows users to browse a menu, customize quantities, and generate an accurate receipt using either a console-based system or a Graphical User Interface (GUI).
+- This program aims to simulate a digital ordering system for a beverage shop. In a manual ordering process, cashiers or customers may find it difficult to keep track of orders and compute the total cost, especially when several items with different prices are ordered at the same time. This project aims to make the ordering process easier by providing an automated system where users can view the menu, select drinks, enter quantities, and receive a calculated receipt by using either a console-based system or a Graphical User Interface (GUI).
 
 Program Features
 
-- The program has a dual interface mode that lets the user order either via the console or by using the GUI. It is capable of displaying a menu of different beverages (Milkshakes, Fruit Drinks, Cold Coffee) and calculating the subtotal and grand total. It also handles multiple item orders using a dynamic list and automatically computes the final bill. Lastly, the system validates inputs to ensure quantities are correct and allows the user to checkout when finished.
+- The program has a dual interface mode that lets the user choose console-based or by using the GUI. It is capable of displaying a menu of different beverages (Milkshakes, Fruit Drinks, Cold Coffee) and calculating the initial amount and the total amount. It also handles multiple item orders using a dynamic list and automatically computes the final bill. Lastly, it generates a detailed summary of the receipt showing the items ordered, the items individual costs, and the total amount due.
 
 How to Run the Program
 
